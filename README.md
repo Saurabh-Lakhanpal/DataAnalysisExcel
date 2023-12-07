@@ -1,4 +1,4 @@
-# DataAnalysisExcel
+# Data Analysis - Excel Dashboard
 
 This is an Excel project that showcases a Data Analytics dashboard. This project was created using a selected sample from a large dump of .csv containing product sales data of a superstore operating in America.
 
